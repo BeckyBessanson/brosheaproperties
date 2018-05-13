@@ -1,0 +1,15 @@
+Rollout Plan:
+Stage 1: Deploy Server Side Code
+	1. Backup Prod and Test files where necessary
+	2. New page - (ADMN Yahoo Geocode) needs to be created in production.
+		- No risk
+	3. NTPL JSON Actions needs to be edited to include Yahoo Geocoding api call.
+		- Minimal risk
+	4. Ensure existing functionality is not compromised with sendemail.
+Stage 2: Deploy JS Script
+	1. Back up Prod and Test SUP JS files.
+	2. Test with debug flag
+	2. SUP needs to get pushed to /admin/js/createevent.js AND /events/js/createevent.js
+		- low 
+	3. Test create event to ensure functionality is working as expected.
+

@@ -1,0 +1,87 @@
+var str = 'Albany, GA, ABY\n\
+Albany-Schenectady-Troy, NY, ALB\n\
+Albuquerque-Santa Fe, NM, ABQ\n\
+Atlanta, GA, ATL\n\
+Austin, TX, AUS\n\
+Bakersfield, CA, BFL\n\
+Bangor, ME, BGR\n\
+Baton Rouge, LA, BTR\n\
+Bend, OR, OTH\n\
+Biloxi-Gulfport, MS, GPT\n\
+Birmingham, AL, BHM\n\
+Boise, ID, BOI\n\
+Buffalo, NY, BUF\n\
+Charleston, SC, CHS\n\
+Charlotte, NC, CLT\n\
+Chicago, IL, CHI\n\
+Cincinnati, OH, CVG\n\
+Cleveland-Akron, OH, CLE\n\
+Columbia, SC, CAE\n\
+Columbus, GA, CSG\n\
+Davenport, IA-Rock Island-Moline, IL, MLI\n\
+Denver, CO, DEN\n\
+Des Moines-Ames, IA, DSM\n\
+Duluth, MN-Superior, WI, DLH\n\
+El Paso, TX, ELP\n\
+Eugene, OR, EUG\n\
+Evansville, IN, EVV\n\
+Flint-Saginaw-Bay City, MI, FNT\n\
+Fresno-Visalia, CA, FAT\n\
+Ft. Smith-Fayetteville-Springdale-Rogers, AR, FYV\n\
+Grand Junction-Montrose, CO, GJT\n\
+Grand Rapids-Kalamazoo-Battle Creek, MI, GRR\n\
+Greenville-Spartanburg, SC-Asheville, NC, GSP\n\
+Hartford-New Haven, CT, BDL\n\
+Hattiesburg-Laurel, MS, PIB\n\
+Honolulu, HI, HNL\n\
+Huntsville-Decatur-Florence, AL, HSV\n\
+Idaho Falls-Pocatello, ID, IDA\n\
+Indianapolis, IN, IND\n\
+Jackson, MS, JAN\n\
+Jacksonville, FL, JAX\n\
+Jonesboro, AR, JBR\n\
+Kansas City, MO - KS, MCI\n\
+Knoxville, TN, TYS\n\
+La Crosse-Eau Claire, WI, LSE\n\
+Lake Charles, LA, LCH\n\
+Las Vegas, NV, LAS\n\
+Little Rock-Pine Bluff, AR, LIT\n\
+Louisville, KY, SDF\n\
+Lubbock, TX, LBB\n\
+Macon, GA, MCN\n\
+Madison, WI, MSN\n\
+Memphis, TN, MEM\n\
+Milwaukee, WI, MKE\n\
+Minneapolis-St. Paul, MN, MSP\n\
+Monterey-Salinas, CA, MRY\n\
+Montgomery, AL, MGM\n\
+Myrtle Beach-Florence, SC, MYR\n\
+Nashville, TN, BNA\n\
+Norfolk-Portsmouth-Newport News, VA, ORF\n\
+Oklahoma City, OK, OKC\n\
+Paducah, KY-Cape Girardeau, MO-Harrisburg-Mt. Vernon, IL, PAH\n\
+Palm Springs, CA, PSP\n\
+Phoenix, AZ, PHX\n\
+Portland, OR, PDX\n\
+Portland-Auburn, ME, PWM\n\
+Richmond-Petersburg, VA, RIC\n\
+Rochester, NY, RST\n\
+Sacramento-Stockton-Modesto, CA, SMF\n\
+Salt Lake City, UT, SLC\n\
+San Diego, CA, SAN\n\
+San Francisco-Oakland-San Jose, CA, SFO\n\
+Santa Barbara-Santa Maria-San Luis Obispo, CA, SBA\n\
+Savannah, GA, SAV\n\
+Seattle-Tacoma, WA, SEA\n\
+Shreveport, LA, SHV\n\
+Sioux Falls-Mitchell, SD, FSD\n\
+Spokane, WA, GEG\n\
+Springfield-Holyoke, MA, SPI\n\
+St. Louis, MO, STL\n\
+Tampa-St. Petersburg-Sarasota, FL, TPA\n\
+Toledo, OH, TOL\n\
+Tucson, AZ, TUS\n\
+Tyler-Longview, TX, TYR\n\
+Washington, DC, WAS\n\
+Wilkes Barre-Scranton, PA, AVP\n\
+Wilmington, NC, ILM';
